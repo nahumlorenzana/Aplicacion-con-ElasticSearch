@@ -1,4 +1,4 @@
-# Aplicacion-con-ElasticSearch
+# Aplicación-con-ElasticSearch
 Después de la importación a Elasticsearch es momento de hacer una pequeña aplicación para comprobar que todo funcione
 [AplicacionWeb.zip](https://github.com/user-attachments/files/23912004/AplicacionWeb.zip)
 # Sentencias CRUD
@@ -227,14 +227,14 @@ POST /productos/_bulk
 **Las sentencias Read realizadas fueron:**
 1. **Leer un documento por ID**
 2. **Mostrar todos los documentos**
-3. **Busqueda por coincidencia**
+3. **Búsqueda por coincidencia**
 4. **Filtrar por rango**
 
 # Update
 
 **Las sentencias Update realizadas fueron:**
 
-1. **Actualizar un campo especifico**
+1. **Actualizar un campo específico**
 2. **Incrementar un valor númerico**
 3. **Añadir un campo nuevo**
 4. **Reemplazar un documento completo**
@@ -250,7 +250,7 @@ POST /productos/_bulk
 
 Para poder realizar esta aplicación Web se utilizo como principal herramienta el VS Code para comodidad, obviamente utilizando distintas extensiones.
 
-**VS Code:** Utilizado para comodidad y poder tener ambos codigos en un solo lugar.  
-**Python:** El lenguaje utilizado para poder correr nuestro codigo, en este se realizaron todas las sentencias y lo escogimos gracias a su facilidad para trabajar.  
-**HTML:** Utilizado para la creacion de la pagina Web donde un usuario puede interactuar con el dataset.  
+**VS Code:** Utilizado para comodidad y poder tener ambos códigos en un solo lugar.  
+**Python:** El lenguaje utilizado para poder correr nuestro código, en este se realizaron todas las sentencias y lo escogimos gracias a su facilidad para trabajar.  
+**HTML:** Utilizado para la creación de la pagina Web donde un usuario puede interactuar con el dataset.  
 **PostMan:** Utilizado para ver los datos del dataset.  
